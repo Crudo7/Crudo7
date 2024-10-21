@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6c85cdfe-ebca-46b1-9254-2a4c96bc2400"width="750" height="250"/>
+</p>
+
+
+
 <h1 align="center">Hi, I'm Crudo</h1>
 
 ###
