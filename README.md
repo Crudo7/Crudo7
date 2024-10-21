@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- Currently learning HTML and CSS.<br>- Videogames lover.<br>- My goal is work for games industry.<br>- Young promise.</p>
+<p align="left">- Currently learning HTML and CSS.<br>- Videogames lover.<br>- My goal is work for games industry.<br>- Dark theme.</p>
 
 ###
 
