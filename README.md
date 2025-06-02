@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- Currently learning frontend and backend.<br>- Videogames lover.<br>- My goal is work for games industry.<br>- Dark theme.</p>
+<p align="left">- Frontend and Backend.<br>- Videogames lover.<br>- My goal is work for games industry.<br>- I love dark colours</p>
 
 ###
 
